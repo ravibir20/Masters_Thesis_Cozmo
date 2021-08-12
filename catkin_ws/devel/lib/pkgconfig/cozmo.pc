@@ -1,0 +1,8 @@
+prefix=/home/kth/catkin_ws/devel
+
+Name: cozmo
+Description: Description of cozmo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
